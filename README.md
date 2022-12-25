@@ -2,7 +2,7 @@
 <img src="https://imgur.com/ocgeUoz.png" alt="osTicket logo"/>
 </p>
 
-<h1>Microsoft Azure- Configuring Active Directory Within Microsoft VMs </h1>
+<h1>Implementing Active Directory (On-Premises) in Azure </h1>
 In this tutorial, we will be activating Active Directory within a virtual machine. We will also create another client desktop within another virtual machine and have the users that are configured on the Active Directory attempt to login to the client desktop.<br />
 
 <h2>Environments and Technologies Used</h2>
